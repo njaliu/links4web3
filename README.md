@@ -18,4 +18,4 @@ This is a repository for summarizing important and interesting links to public m
 ## Financial Computing
 [UCL Financial Computing and Analytics Group](https://www.ucl.ac.uk/computer-science/research/research-groups/financial-computing-and-analytics)
 
-[Fedor Iskhakov's Lecture in ANU]
+[Fedor Iskhakov's Lecture in ANU](https://www.youtube.com/playlist?list=PLWs2dSJolpWKBCBPVymYBm0BM8VPksmLv)
