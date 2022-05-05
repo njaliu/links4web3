@@ -19,3 +19,6 @@ This is a repository for summarizing important and interesting links to public m
 [UCL Financial Computing and Analytics Group](https://www.ucl.ac.uk/computer-science/research/research-groups/financial-computing-and-analytics)
 
 [Fedor Iskhakov's Lecture in ANU](https://www.youtube.com/playlist?list=PLWs2dSJolpWKBCBPVymYBm0BM8VPksmLv)
+
+## web3 and AGI
+[DALL·E 2 is a new AI system that can create realistic images and art from a description in natural language.](https://openai.com/dall-e-2/)
